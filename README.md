@@ -22,6 +22,10 @@ Aplicativo desenvolvido em React Native com Expo que permite:
 npm install
 ```
 
+```bash
+npx expo install @react-native-async-storage/async-storage
+```
+
 2. Execute o projeto:
 
 ```bash
